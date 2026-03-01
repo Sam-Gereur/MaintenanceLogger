@@ -1,6 +1,6 @@
 {
-  "name": "Garage Log",
-  "short_name": "Garage Log",
+  "name": "Maintenance Log",
+  "short_name": "Maintenance Log",
   "description": "Vehicle maintenance tracker",
   "start_url": "./index.html",
   "display": "standalone",
